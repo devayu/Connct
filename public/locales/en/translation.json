@@ -1,0 +1,45 @@
+{
+    "title": "Connct",
+    "room": "Room",
+    "english": "English",
+    "preJoinScreen":{
+        "joinRoom":"Join a Room",
+        "enterRoomDetailsAll": "Enter your name and the name of a room you'd like to join"
+    },
+    "deviceSelection": {
+        "joinNowBtn": "Join Now"
+    },
+    "audio" : {
+        "title": "Audio",
+        "mute": "Mute",
+        "unmute": "Unmute",
+        "noAudio": "No Audio",
+        "input": "Input",
+        "output": "Output"
+    },
+    "video": {
+        "title": "Video",
+        "stopVideo": "Stop Video",
+        "startVideo": "Start Video",
+        "noVideo": "No Video",
+        "input": "Input",
+        "output": "Output"
+    },
+    "settings": {
+        "title": "Settingss",
+        "audioVideo": "Audio and Video Settings",
+        "connection": "Connection Settings",
+        "about": "About Us",
+        "language": "Change Language"
+    },
+    "recording": {
+        "title": "Recording",
+        "start": "Start Recording",
+        "stop" :"Stop Recording"
+    },
+    "joiningMeeting": "Please wait",
+    "continueBtn": "Continue",
+    "cancelBtn": "Cancel",
+    "yourName": "Your Name",
+    "roomName": "Room Name"
+}

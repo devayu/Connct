@@ -1,0 +1,47 @@
+{
+    "title": "Connct",
+    "room": "मीटिंग",
+    "hindi": "हिन्दी",
+    "preJoinScreen": {
+        "joinRoom":"मीटिंग में शामिल हों",
+        "enterRoomDetailsAll": "अपना नाम और उस मीटिंग का नाम दर्ज करें जिसमें आप शामिल होना चाहते हैं"
+    },
+    "deviceSelection": {
+        "joinNowBtn": "मीटिंग में शामिल हों"
+    },
+    "audio" : {
+        "title": "ऑडियो",
+        "mute": "आवाज़ बंद करें",
+        "unmute": "आवाज़ चालू करें",
+        "noAudio": "कोई ऑडियो नहीं",
+        "input": "इनपुट",
+        "output": "आउटपुट"
+    },
+    "video": {
+        "title": "वीडियो",
+        "stopVideo": "वीडियो बंद करें",
+        "startVideo": "वीडियो चालू करें",
+        "noVideo": "कोई वीडियो नहीं",
+        "input": "इनपुट",
+        "output": "आउटपुट"
+    },
+    "settings": {
+        "title": "सेटिंग्स",
+        "audioVideo": "ऑडियो और वीडियो सेटिंग्स",
+        "connection": "कनेक्शन सेटिंग्स",
+        "about": "बारे में",
+        "language": "भाषा बदलें"
+    },
+    "recording": {
+        "title": "रिकॉर्डिंग",
+        "start": "स्टार्ट रिकॉर्डिंग ",
+        "stop" :"स्टॉप रिकॉर्डिंग"
+    },
+    "joiningMeeting": "कृपया प्रतीक्षा करें",
+    "language":"भाषा",
+    "continueBtn": "जारी रखें",
+    "cancelBtn": "रद्द करें",
+    "yourName": "आपका नाम",
+    "roomName": "मीटिंग का नाम"
+    
+}
